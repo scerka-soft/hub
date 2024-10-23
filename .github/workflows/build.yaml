@@ -43,5 +43,4 @@ jobs:
         with:
           folder: dist
           branch: gh-pages
-          clean: true
           commit-message: Update hub
