@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[807],{5807:function(s,n,t){t.r(n),t.d(n,{LTSH:function(){return u}});var e=t(9249);class u extends e.v{constructor(s,n){const{p:t}=super(s,n);this.version=t.uint16,this.numGlyphs=t.uint16,this.yPels=t.readBytes(this.numGlyphs)}}}}]);
+//# sourceMappingURL=807.6f0b1155.js.map

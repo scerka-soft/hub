@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[950],{7950:function(e,u,n){n.r(u),n.d(u,{GSUB:function(){return s}});var r=n(1311);class s extends r.G{constructor(e,u){super(e,u,"GSUB")}getLookup(e){return super.getLookup(e,"GSUB")}}}}]);
+//# sourceMappingURL=950.93a51ce5.js.map

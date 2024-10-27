@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[77],{6077:function(s,t,e){e.r(t),e.d(t,{hdmx:function(){return n}});var i=e(9249);class n extends i.v{constructor(s,t,e){const{p:i}=super(s,t),n=e.hmtx.numGlyphs;this.version=i.uint16,this.numRecords=i.int16,this.sizeDeviceRecord=i.int32,this.records=[...new Array(numRecords)].map((s=>new r(i,n)))}}class r{constructor(s,t){this.pixelSize=s.uint8,this.maxWidth=s.uint8,this.widths=s.readBytes(t)}}}}]);
+//# sourceMappingURL=77.cb166035.js.map

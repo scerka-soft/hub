@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[801],{2801:function(e,s,n){n.r(s),n.d(s,{PCLT:function(){return t}});var a=n(9249);class t extends a.v{constructor(e,s){const{p:n}=super(e,s);console.warn("This font uses a PCLT table, which is currently not supported by this parser."),console.warn("If you need this table parsed, please file an issue, or better yet, a PR.")}}}}]);
+//# sourceMappingURL=801.4a929f99.js.map

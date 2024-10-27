@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[418,780],{418:function(n,s,r){r.r(s),r.d(s,{CBDT:function(){return u}});var t=r(7780);class u extends t.EBDT{constructor(n,s){super(n,s,"CBDT")}}},7780:function(n,s,r){r.r(s),r.d(s,{EBDT:function(){return u}});var t=r(9249);class u extends t.v{constructor(n,s,r){const{p:t}=super(n,s,r);this.majorVersion=t.uint16,this.minorVersion=t.uint16}}}}]);
+//# sourceMappingURL=418.04098ace.js.map

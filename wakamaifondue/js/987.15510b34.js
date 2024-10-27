@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakamai_fondue"]=self["webpackChunkwakamai_fondue"]||[]).push([[987],{987:function(n,s,a){a.r(s),a.d(s,{gasp:function(){return u}});var t=a(9249),e=a(7429);class u extends t.v{constructor(n,s){const{p:a}=super(n,s);this.version=a.uint16,this.numRanges=a.uint16;const t=()=>[...new Array(this.numRanges)].map((n=>new i(a)));(0,e.A)(this,"gaspRanges",t)}}class i{constructor(n){this.rangeMaxPPEM=n.uint16,this.rangeGaspBehavior=n.uint16}}}}]);
+//# sourceMappingURL=987.15510b34.js.map
